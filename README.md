@@ -6,7 +6,11 @@ Guess the number based on the difficulty level:
 - Medium (5 chances)
 - Hard (3 chances)
 
-Run the script to start the guessing game in terminal
+### Instructions
+
+1. Clone the repository
+
+2. Run the script to start the guessing game in terminal
 ```bash
   node index.js
 ```
